@@ -1,2 +1,2 @@
 # SkinnyMinny
-Android Game
+Multiplatform Game
